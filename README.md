@@ -11,12 +11,12 @@ Within this project, we analyzed custom sentiment toward product on the Amazon p
 
 ## Performance of Model
 
-| Model              | Accuracy | Precision | Recall | F1-Score |
+| **Model**              | **Accuracy** | **Precision** | **Recall** | **F1-Score** |
 |--------------------|----------|-----------|--------|----------|
-| Deep Learning                                                 |
-| GRU                | 0.00    | 0.00      | 0.00   | 0.00     |
-| LSTM               | 0.00    | 0.00      | 0.00   | 0.00     |
-| Traditional Model                                             |
+| **Deep Learning**                                                |
+| ├─ GRU                 | 0.00    | 0.00      | 0.00   | 0.00     |
+| └─ LSTM               | 0.00    | 0.00      | 0.00   | 0.00     |
+| **Traditional Model**                                             |
 | Logistic Regression| 0.8849   | 0.89      | 0.88   | 0.00     |
 | Naïve Bayes        | 0.00   | 0.00      | 0.00   | 0.00     |
 
