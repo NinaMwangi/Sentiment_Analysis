@@ -7,6 +7,8 @@ Within this project, we analyzed custom sentiment toward product on the Amazon p
 - **Size:** Over 500,000 reviews
 - **Columns:** review (Text) and sentiment (Label: Positive/Negative/Neutral)
 
+**Report:**: https://docs.google.com/document/d/1DBWFAR4ilHCKozB4nT18kl421dcMQj4eLa9SX_KrzTI/edit?usp=sharing
+
 ## Model
 
 ### Performance of Model
