@@ -15,9 +15,9 @@ Within this project, we analyzed custom sentiment toward product on the Amazon p
 |--------------------|----------|-----------|--------|----------|
 | **Deep Learning**                                                |
 | GRU                | 0.00    | 0.00      | 0.00   | 0.00     |
-| LSTM               | 0.00    | 0.00      | 0.00   | 0.00     |
+| LSTM               | 0.8282  | 0.78      | 0.83   | 0.79     |
 | **Traditional Model**                                             |
-| Logistic Regression| 0.8849   | 0.89      | 0.88   | 0.00     |
+| Logistic Regression| 0.8572   | 0.84      | 0.86   | 0.84     |
 | Naïve Bayes        | 0.00   | 0.00      | 0.00   | 0.00     |
 
 
